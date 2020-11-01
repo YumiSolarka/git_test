@@ -1,1 +1,0 @@
-Pierwszy projekt git Mateusza!
